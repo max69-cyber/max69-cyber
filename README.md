@@ -7,7 +7,7 @@
         Если вы хотите связаться со мной это можно сделать в телеграме или по почте!<br>
     </i><br>
     <a href="https://t.me/RayXaus">
-        <img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram" alt="Telegram">
+        <img src="https://img.shields.io/badge/Telegram-black?style=flat-square&logo=telegram" alt="Telegram">
     </a>
     <a href="mailto:ampaipts@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
