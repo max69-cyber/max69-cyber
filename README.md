@@ -7,10 +7,10 @@
         Если вы хотите связаться со мной это можно сделать в телеграме или по почте!<br>
     </i><br>
     <a href="https://t.me/RayXaus">
-        <img src="https://www.flaticon.com/free-icon/telegram_2111646?term=telegram&page=1&position=1&origin=tag&related_id=2111646" alt="Telegram">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram" alt="Telegram">
     </a>
     <a href="mailto:ampaipts@gmail.com">
-        <img src="https://www.flaticon.com/free-icon/gmail_5968534?term=gmail&page=1&position=4&origin=search&related_id=5968534" alt="E-mail">
+        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
 </p>
 
