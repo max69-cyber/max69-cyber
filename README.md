@@ -1,20 +1,3 @@
-<h1 align="center">Всем привет!</h1>
-<p align="center">
-    <b>Добро пожаловать на мою страничку!</b><br><br>
-    <i>
-        Меня зовут Максим<br>
-        Сейчас я учусь на 4 курсе в колледже на программиста<br>
-        Если вы хотите связаться со мной это можно сделать в телеграме или по почте!<br>
-    </i><br>
-    <a href="https://t.me/RayXaus">
-        <img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
-    </a>
-    <a href="mailto:ampaipts@gmail.com">
-        <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
-    </a>
-</p>
-
-
 <p align="center">
   <a href="https://github.com/max69-cyber">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max69-cyber&theme=aura" />
