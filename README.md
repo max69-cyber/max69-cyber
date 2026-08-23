@@ -1,26 +1,18 @@
 <p align="center">
   <a href="https://github.com/max69-cyber">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max69-cyber&theme=aura" />
-  </a>
-  <a href="https://github.com/max69-cyber">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=max69-cyber&theme=aura&hide_border=true&border_radius=0" />
-  </a>
-  <a href="https://github.com/max69-cyber">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=max69-cyber&theme=aura" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=max69-cyber&theme=github&animation=sequence&duration=1.5&name=max69-cyber" />
   </a>
 </p>
-
-<!--
-**max69-cyber/max69-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">  
+  <a href="https://github.com/max69-cyber">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=max69-cyber&theme=github&animation=sequence&duration=1.5" />
+  </a>
+  <a href="https://github.com/max69-cyber">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=max69-cyber&theme=github&animation=sequence&duration=1.5&utcOffset=5" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/max69-cyber">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=max69-cyber&theme=github-light&hide_border=true" />
+  </a>
+</p>
