@@ -13,6 +13,6 @@
 </p>
 <p align="center">
   <a href="https://github.com/max69-cyber">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=max69-cyber&theme=github-light&hide_border=true" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=max69-cyber&theme=github-light" />
   </a>
 </p>
