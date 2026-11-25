@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/max69-cyber">
-    <img src="https://ghstats-widget.vercel.app/api/langs?username=max69-cyber&layout=grid&include_private=true" />
+    <img src="https://ghstats-widget.vercel.app/api/langs?username=max69-cyber&layout=grid&include_private=false" />
   </a>
 </p>
 <p align="center">  
